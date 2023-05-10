@@ -1,0 +1,30 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Study Vue JS",
+      "details": "Lorem ipsum",
+      "complete": true
+    },
+    {
+      "id": 2,
+      "title": "Create a Project",
+      "details": "Lorem ipsum",
+      "complete": false
+    },
+    {
+      "title": "New Todo Editado",
+      "details": "Adding a new todo... and editing it!",
+      "completed": false,
+      "id": 3,
+      "complete": true,
+      "detaisl": "Adding a new todo... and editing it!"
+    },
+    {
+      "title": "Dream Theater",
+      "details": "Pull Me Under",
+      "completed": false,
+      "id": 4
+    }
+  ]
+}

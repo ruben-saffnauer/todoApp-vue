@@ -1,0 +1,28 @@
+{
+    "todos": [
+        {
+            "id": 1,
+            "title": "Study Vue JS",
+            "details": "Lorem ipsum",
+            "complete": false
+        },
+        {
+            "id": 2,
+            "title": "Create a Project",
+            "details": "Lorem ipsum",
+            "complete": true
+        },
+        {
+            "id": 3,
+            "title": "Study Vue JS",
+            "details": "Lorem ipsum",
+            "complete": false
+        },
+        {
+            "id": 4,
+            "title": "Create a Project",
+            "details": "Lorem ipsum",
+            "complete": true
+        }
+    ]
+}
